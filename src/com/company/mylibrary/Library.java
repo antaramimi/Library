@@ -68,7 +68,7 @@ public class Library {
     public void checkDublicateBook(){
 
         for(int i=0;i < bookList.size(); i++){
-
+          if()
         }
     }
 
